@@ -6,7 +6,7 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": true,
+		"urlCheck": false,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
@@ -24,7 +24,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.8.3",
-	"appid": "wxe0face0d131e0bd2",
+	"appid": "wx0a7135086f6e7c56",
 	"projectname": "meow",
 	"debugOptions": {
 		"hidedInDevtools": []
